@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Low Carb Kombucha </title>
+		<meta charset="utf-8">
+	</head>
+	<nav>
+	<a href=> Home </a>
+	<a href=> Contact </a>
+	<a href=>FAQs</a>
+	<body>
+	
+	</body>
+	
+</html>
