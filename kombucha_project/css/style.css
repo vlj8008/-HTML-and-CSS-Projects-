@@ -130,7 +130,7 @@ section {
 /*******My background image is not coming up and I don't know why. I believe my url is correct. Any suggestions?*/
 
 #home {
-  background: url(./images/front_page/background.jpeg) no-repeat 50% 50%;
+  background: url(../images/home_page/background.jpeg) no-repeat 50% 50%;
   background-attachment: fixed;
   -webkit-background-size: cover;
   moz-background-size: cover;
