@@ -91,11 +91,45 @@
     opacity: 1;
 }
 
+/**** this feature is not working. I need to fix */
+
 .photo img{
     transition: transform .5em;
     transform-origin: 50% 50%;
 }
 
 .photo:hover img{
-    tranform: scale(1.1);
+    transform: scale(1.1);
+}
+
+/* --media queries --*/
+
+@media all and (max-width:640px) and (min-width:381px){
+    .head-main{
+        font-size: 20px;
+    }
+}
+
+@media all and (max-width:381px) and (min-width:200px){
+    .head-main{
+        font: size 24px;
+    }
+}
+
+@media(min-width: 768px){
+    .container{
+        width:740px;
+    }
+}
+
+@media (min-width:992px){
+    .container{
+        width: 970px;
+    }
+}
+
+@media(min-width: 1200px){
+    .container{
+        width:1170px;
+    }
 }
